@@ -1,0 +1,171 @@
+.body{
+background-color:#6896A5;
+background-image:none;
+background-repeat:no-repeat;
+background-attachment:repeat;
+background-position:repeat;   
+}
+
+.title{
+    top: 40px;
+    font-size: 35px;
+    text-align: center;
+    color: aliceblue;
+    
+    
+}
+
+.subheading{
+ top: 40px;
+font-size: 20px;
+text-align: center;
+color: aliceblue;
+     
+}
+
+.bodytext{
+    top: 40px;
+    font-size: 10px;
+    text-align: center;
+    padding: 70px;
+    color: aliceblue;
+}
+
+
+.image1{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    display: block;
+    margin: auto;
+    background-image: url("cover.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+
+.image1:hover{
+    background-image: url("smile.jpg");
+
+}
+
+.left-arrow{
+    position: absolute;
+    left: 20px;
+    top: 500px;
+
+}
+
+.right-arrow{
+    position: absolute;
+    right: 20px;
+    top: 500px;
+}
+
+.image2{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    display: block;
+    margin: auto;
+    background-image: url("coverpill1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.image2:hover{
+    background-image: url("imagepill1.png");
+
+}
+.image3{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    display: block;
+    margin: auto;
+    background-image: url("coverpill2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.image3:hover{
+    background-image: url("imagepill2.png");
+
+}
+
+.image4{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    display: block;
+    margin: auto;
+    background-image: url("coverpill3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.image4:hover{
+    background-image: url("imagepill3.png");
+
+}
+.image5{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    display: block;
+    margin: auto;
+    background-image: url("coverpill4.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.image5:hover{
+    background-image: url("imagepill4.png");
+
+}
+.image6{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    display: block;
+    margin: auto;
+    background-image: url("coverpill5.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.image6:hover{
+    background-image: url("imagepill5.png");
+
+}
+.image7{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    display: block;
+    margin: auto;
+    background-image: url("coverpill6.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.image7:hover{
+    background-image: url("imagepill6.png");
+
+}
+.image8{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    display: block;
+    margin: auto;
+    background-image: url("coverpill7.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.image8:hover{
+    background-image: url("imagepill7.png");
+
+}
